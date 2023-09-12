@@ -10,12 +10,12 @@ int main()
 	printf("%d + %d = %d\n", a, b, c);
 
 	int d;
-	printf("dÀÇ °ª: ");
+	printf("dì˜ ê°’: ");
 	scanf("%d", &d);
-	printf("ÀÔ·ÂµÈ dÀÇ °ªÀº %dÀÔ´Ï´Ù.\n", d);
+	printf("ìž…ë ¥ëœ dì˜ ê°’ì€ %dìž…ë‹ˆë‹¤.\n", d);
 
 	if (d > 10)
-		printf("dÀÇ °ªÀº 10º¸´Ù Å®´Ï´Ù.\n");
+		printf("dì˜ ê°’ì€ 10ë³´ë‹¤ í½ë‹ˆë‹¤.\n");
 	if (d <= 10)
-		printf("dÀÇ °ªÀº 10º¸´Ù ÀÛ°Å³ª °°½À´Ï´Ù.\n");
+		printf("dì˜ ê°’ì€ 10ë³´ë‹¤ ìž‘ê±°ë‚˜ ê°™ìŠµë‹ˆë‹¤.\n");
 }
