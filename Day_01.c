@@ -8,5 +8,5 @@
 int main()
 {
 	printf("Hello, Visual Studio\n");
-	printf("ÀÛ¼ºÀÚ : ³ª\n"); 
+	printf("ì‘ì„±ì : ë‚˜\n"); 
 }
